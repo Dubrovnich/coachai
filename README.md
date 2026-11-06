@@ -42,7 +42,7 @@ I put the app in front of a small group before building further. Their feedback 
 ## Running locally
 
 ```bash
-git clone https://github.com/CDMFdnc/coachai.git
+git clone https://github.com/Dubrovnich/coachai.git
 cd coachai
 cp .env.example .env        # add your own API keys
 docker compose up --build   # backend: FastAPI, Celery, Redis, Postgres
